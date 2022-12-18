@@ -9,6 +9,7 @@ including program source codes and API source codes, but excluding the database 
 
 Software for Development: Android Studio 2020.3.1\
 Framework: Flutter V2.0.6\
+Programming Language: Dart with Flutter for Application, PHP for API
 Development Device OS: Windows 10 / MacOS Catalina
 
 ## ScreenShots
