@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395178126001",
+    "project_id": "eduhk-smeapp",
+    "storage_bucket": "eduhk-smeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395178126001:android:5564293dac77c1d2cbd090",
+        "android_client_info": {
+          "package_name": "com.dsgshk.eduhk.smeresapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395178126001-l1fiq9hvas18pprcp62u41mtahcc5nkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LlB3ud_Ah21L2VSbK9_cfX_A6tRW4q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395178126001-l1fiq9hvas18pprcp62u41mtahcc5nkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
