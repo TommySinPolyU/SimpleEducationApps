@@ -12,7 +12,11 @@ Framework: Flutter V2.0.6\
 Development Device OS: Windows 10 / MacOS Catalina
 
 ## ScreenShots
-![image]()
+![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png)
+![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Profile.png)
+![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Course.png)
+![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Syllabus.png)
+![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Materials.png)
 ## Including Libraries / Packages
 1. file_picker: V2.1.4
 https://pub.dev/packages/file_picker/versions/2.1.4
