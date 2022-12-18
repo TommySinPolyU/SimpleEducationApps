@@ -12,6 +12,7 @@ Framework: Flutter V2.0.6\
 Development Device OS: Windows 10 / MacOS Catalina
 
 ## ScreenShots
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png" width="100">
 ![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png|width=100)
 ![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Profile.png|width=100)
 ![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Course.png|width=100)
