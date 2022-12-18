@@ -1,14 +1,14 @@
 # Simple Education Application
 
-This is a project originally designed for a research institute of the Education University of Hong Kong.__
-Now, some relevant source codes are open for reference,__
-including program source codes and API source codes, but excluding the database structure.__
+This is a project originally designed for a research institute of the Education University of Hong Kong.\
+Now, some relevant source codes are open for reference,\
+including program source codes and API source codes, but excluding the database structure.\
 **This project is now closed, and I will no longer develop and maintain this project.
 
 ## Project Development Environment
 
-Software for Development: Android Studio 2020.3.1__
-Framework: Flutter V2.0.6__
+Software for Development: Android Studio 2020.3.1\
+Framework: Flutter V2.0.6\
 Development Device OS: Windows 10 / MacOS Catalina
 
 ## ScreenShots
