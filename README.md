@@ -12,12 +12,11 @@ Framework: Flutter V2.0.6\
 Development Device OS: Windows 10 / MacOS Catalina
 
 ## ScreenShots
-<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png" width="100">
-![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png|width=100)
-![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Profile.png|width=100)
-![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Course.png|width=100)
-![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Syllabus.png|width=100)
-![image](https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Materials.png|width=100)
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Home.png" width="400">
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Profile.png" width="400">
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Course.png" width="400">
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Syllabus.png" width="400">
+<img src="https://github.com/TommySinPolyU/SimpleEducationApps/blob/main/screenshots/Materials.png" width="400">
 ## Including Libraries / Packages
 1. file_picker: V2.1.4
 https://pub.dev/packages/file_picker/versions/2.1.4
