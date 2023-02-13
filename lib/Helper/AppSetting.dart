@@ -1,8 +1,8 @@
 import 'package:encrypt/encrypt.dart' as encryption;
 import 'package:smeapp/Helper/ComponentsList.dart';
 // Application Verifier Setting
-const Application_Identifier_Code = "Zq4t7w!z%C*F-JaNdRgUkXp2r5u8x/A?"; // No Need To Change This Code!!
-const Application_Version = "V1.4.1 Public"; // Change This Version Code to match the DB Setting Before Upload To Appstore
+const Application_Identifier_Code = ""; // No Need To Change This Code!!
+const Application_Version = ""; // Change This Version Code to match the DB Setting Before Upload To Appstore
 //const Application_Version = "V1.1.0 Local Testing";
 
 // Encryption Setting
@@ -19,9 +19,6 @@ const Server_Protocol = 'https://'; // Change to https for online, http for loca
 
 //const Server_Host = '192.168.1.101'; //Local
 //const Server_Root_URL =  Server_Protocol + Server_Host + '/';// + 'SME/';
-
-const Server_Host = 'sme.dsgshk.com'; // Internet
-const Server_Root_URL = Server_Protocol + Server_Host + '/';// + 'SME/';
 
 const Application_Root_URL = Server_Root_URL + 'Application/v1/';
 const Account_Root_URL = Server_Root_URL + 'Account/v1/';
